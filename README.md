@@ -21,4 +21,4 @@ A simple PHP web system for managing an inventory.
 
 
 ## Acknowledgments
-* Inspired by many similar projects online
+ Inspired by many similar projects online
